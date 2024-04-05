@@ -1,0 +1,26 @@
+PROGRAM -6
+Static and Shared libraries
+Write a program to create and use static and shared libraries. Demonstrate the advantage of shared libraries over static libraries in terms of memory usage. 
+To generate a static library (object code archive file):
+•	Compile: cc -Wall -c ctest1.c ctest2.c 
+
+•	Create library "libctest.a" by archiving it: 
+ar -cvq libctest.a ctest1.o ctest2.o
+•	List files in library: 
+             ar -t libctest.a
+•	Linking with the library:
+o	Library in current directory: 
+cc -o executable-name prog.c libctest.a
+o	Library in not in current directory:
+cc -o executable-name prog.c -L/path/to/library-directory -lctest
+•	size executable-name
+To generate a shared object (Dynamically linked object library file):
+•	Compile: gcc -Wall -fPIC -c *.c
+Here PIC meaning generate position independent code
+•	Create shared library "libctest.so"
+gcc -shared  -o libctest.so   *.o
+•	export  LD_LIBRARY_PATH=.:LD_LIBRARY_PATH
+•	Linking with the library:
+gcc  -L . prog.c -l ctest -o prog
+•	size prog
+Compare the size of shared and static libraries using size command
