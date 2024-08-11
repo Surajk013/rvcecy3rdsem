@@ -4,3 +4,5 @@ CY_2022_syllabus.pdf filter=lfs diff=lfs merge=lfs -text
 EL filter=lfs diff=lfs merge=lfs -text
 quiz filter=lfs diff=lfs merge=lfs -text
 SkillLabs filter=lfs diff=lfs merge=lfs -text
+oldQP/2024/LinearAlgebra.pdf filter=lfs diff=lfs merge=lfs -text
+13ec64eb368db0e5358983b09934b3cf3d5b3c8c filter=lfs diff=lfs merge=lfs -text
