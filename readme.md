@@ -1,4 +1,4 @@
-1. The material is unorganizedi as the sources are diverse, but I hope you can find "everything" !
+1. The material is unorganized as the sources are diverse, but I hope you can find "everything" !
 2. BIO is in https://github.com/Surajk013/rvcecy4thsem/tree/main/BT
 3. DSA: https://www.youtube.com/watch?v=OAc2t3eE6eQ&list=PLtg1mdkLERgkJX3pOmHAqf-Gwp5P5PcKh
 4. site 1 : https://developer1010x.github.io/KnotesCentral/
@@ -9,9 +9,8 @@
 
 ---
 
-___
-
 ###MAP###
-![](github.com/Surajk013/rvcecy5thsem/tree/main/map.png)
+
+![map](github.com/Surajk013/rvcecy5thsem/tree/main/map.png)
 
 download from [here](github.com/Surajk013/rvcecy5thsem/tree/main/map.png)
