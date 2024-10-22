@@ -11,6 +11,6 @@
 
 ###MAP###
 
-![map](github.com/Surajk013/rvcecy5thsem/tree/main/map.png)
+![map](https://github.com/Surajk013/rvcecy5thsem/tree/main/map.png)
 
-download from [here](github.com/Surajk013/rvcecy5thsem/tree/main/map.png)
+download from [here](https://github.com/Surajk013/rvcecy5thsem/tree/main/map.png)
