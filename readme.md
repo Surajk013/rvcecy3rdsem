@@ -11,7 +11,4 @@
 
 ###MAP###
 
-<iframe src="https://www.github.com/Surajk013/rvcecy5thsem/tree/main/map.png" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
-
-download from [here](https://github.com/Surajk013/rvcecy5thsem/tree/main/map.png)
+Download it from [here](https://github.com/Surajk013/rvcecy5thsem/tree/main/map.png)
